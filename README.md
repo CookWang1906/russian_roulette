@@ -1,4 +1,4 @@
-# russian_roulette
+# Russian roulette
 
 ![5f635cd815e9f96e561ab183](https://github.com/CookWang1906/russian_roulette/assets/148769157/1ac3e620-f644-425a-9d0d-6e16b145b283)
 
